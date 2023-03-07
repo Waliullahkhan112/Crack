@@ -16,6 +16,7 @@ pip install mechanize
 pip install bs4
 
 rm -rf Crack
+
 git clone https://github.com/Waliullahkhan112/Crack.git
 
 cd Crack
